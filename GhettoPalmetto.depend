@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1461652818 source:t:\c++ projects\ghettopalmetto\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<conio.h>
+	<cstdlib>
+	<cmath>
+	<sstream>
+	<windows.h>
+	<vector>
+	<time.h>
+	<algorithm>
+	"color.h"
+	"MMSystem.h"
+
+1461652818 source:e:\c++ projects\ghettopalmetto\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<conio.h>
+	<cstdlib>
+	<cmath>
+	<sstream>
+	<windows.h>
+	<vector>
+	<time.h>
+	<algorithm>
+	"color.h"
+	"MMSystem.h"
+
+1459778946 t:\c++ projects\ghettopalmetto\color.h
+	<windows.h>
+	<iostream>
+
+1459778946 e:\c++ projects\ghettopalmetto\color.h
+	<windows.h>
+	<iostream>
+

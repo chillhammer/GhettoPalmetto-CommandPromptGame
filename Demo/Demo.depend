@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1459783588 source:c:\users\kciscisco.2133-ins-343553\desktop\demo\main.cpp
+	<iostream>
+	"color.h"
+
+1459778754 c:\users\kciscisco.2133-ins-343553\desktop\demo\colors.h
+	<windows.h>
+	<iostream>
+	<ctime>
+
+1459778945 c:\users\kciscisco.2133-ins-343553\desktop\demo\color.h
+	<windows.h>
+	<iostream>
+
